@@ -1,0 +1,71 @@
+# ==========================================
+# 1. LLM Providers
+# ==========================================
+openai
+mistralai
+
+# ==========================================
+# 2. LangChain Framework
+# ==========================================
+langchain
+langchain-core
+langchain-community
+langchain-classic
+langchain-openai
+langchain-mistralai
+langchain-text-splitters
+
+# ==========================================
+# 3. Vector Database
+# ==========================================
+chromadb
+langchain-chroma
+
+# ==========================================
+# 4. Embeddings
+# ==========================================
+sentence-transformers
+langchain-huggingface
+
+# ==========================================
+# 5. Document Loaders
+# ==========================================
+pypdf
+python-docx
+unstructured
+beautifulsoup4
+lxml
+pandas
+openpyxl
+
+# ==========================================
+# 6. Web & API
+# ==========================================
+fastapi
+uvicorn[standard]
+requests
+httpx
+
+# ==========================================
+# 7. Environment Variables
+# ==========================================
+python-dotenv
+
+# ==========================================
+# 8. UI
+# ==========================================
+streamlit
+
+# ==========================================
+# 9. Data Validation & Utilities
+# ==========================================
+pydantic
+numpy
+
+# ==========================================
+# 10. Optional: Evaluation & Testing
+# ==========================================
+ragas
+pytest
+
+langchain_huggingface
